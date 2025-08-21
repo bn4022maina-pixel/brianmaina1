@@ -1,7 +1,4 @@
-Reorder Sections
-Preview
-Markdown
-Copy
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Brian Maina
 ====================================================================================================================================
 
@@ -31,6 +28,4 @@ Am highly motivated student on the field of computer programming, and very eager
 
 <a href="http://www.github.com/brianmaina1"><img src="https://github-readme-stats.vercel.app/api?username=brianmaina1&show_icons=true&hide=&count_private=true&title_color=0f172a&text_color=64748b&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="brianmaina1's GitHub stats" /></a>
 
-<a href="http://www.github.com/brianmaina1"><img src="https://github-readme-streak-stats.herokuapp.com/?user=brianmaina1&stroke=64748b&background=1c1917&ring=0f172a&fire=0f172a&currStreakNum=64748b&currStreakLabel=0f172a&sideNums=64748b&sideLabels=64748b&dates=64748b&hide_border=true" /></a>
 
-<a href="https://github.com/brianmaina1" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brianmaina1&langs_count=10&title_color=0f172a&text_color=64748b&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
